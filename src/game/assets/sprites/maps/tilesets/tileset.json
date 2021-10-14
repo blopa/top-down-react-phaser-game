@@ -1,0 +1,355 @@
+{
+    "columns": 39,
+    "image": "tileset.png",
+    "imageheight": 816,
+    "imagewidth": 624,
+    "margin": 0,
+    "name": "tileset",
+    "spacing": 0,
+    "tilecount": 1989,
+    "tiledversion": "1.7.2",
+    "tileheight": 16,
+    "tiles": [
+        {
+            "animation": [
+                {
+                    "duration": 150,
+                    "tileid": 278
+                },
+                {
+                    "duration": 150,
+                    "tileid": 279
+                },
+                {
+                    "duration": 150,
+                    "tileid": 280
+                },
+                {
+                    "duration": 150,
+                    "tileid": 281
+                },
+                {
+                    "duration": 150,
+                    "tileid": 317
+                },
+                {
+                    "duration": 150,
+                    "tileid": 318
+                },
+                {
+                    "duration": 150,
+                    "tileid": 319
+                },
+                {
+                    "duration": 150,
+                    "tileid": 320
+                }
+            ],
+            "id": 278
+        },
+        {
+            "animation": [
+                {
+                    "duration": 150,
+                    "tileid": 702
+                },
+                {
+                    "duration": 150,
+                    "tileid": 703
+                },
+                {
+                    "duration": 150,
+                    "tileid": 704
+                },
+                {
+                    "duration": 150,
+                    "tileid": 705
+                },
+                {
+                    "duration": 150,
+                    "tileid": 741
+                },
+                {
+                    "duration": 150,
+                    "tileid": 742
+                },
+                {
+                    "duration": 150,
+                    "tileid": 743
+                },
+                {
+                    "duration": 150,
+                    "tileid": 744
+                }
+            ],
+            "id": 702
+        },
+        {
+            "animation": [
+                {
+                    "duration": 150,
+                    "tileid": 783
+                },
+                {
+                    "duration": 150,
+                    "tileid": 784
+                },
+                {
+                    "duration": 150,
+                    "tileid": 785
+                },
+                {
+                    "duration": 150,
+                    "tileid": 822
+                },
+                {
+                    "duration": 150,
+                    "tileid": 823
+                },
+                {
+                    "duration": 150,
+                    "tileid": 824
+                }
+            ],
+            "id": 783
+        },
+        {
+            "animation": [
+                {
+                    "duration": 150,
+                    "tileid": 915
+                },
+                {
+                    "duration": 150,
+                    "tileid": 916
+                },
+                {
+                    "duration": 150,
+                    "tileid": 917
+                }
+            ],
+            "id": 915
+        },
+        {
+            "animation": [
+                {
+                    "duration": 150,
+                    "tileid": 954
+                },
+                {
+                    "duration": 150,
+                    "tileid": 955
+                },
+                {
+                    "duration": 150,
+                    "tileid": 956
+                }
+            ],
+            "id": 954
+        },
+        {
+            "animation": [
+                {
+                    "duration": 150,
+                    "tileid": 993
+                },
+                {
+                    "duration": 150,
+                    "tileid": 994
+                },
+                {
+                    "duration": 150,
+                    "tileid": 995
+                }
+            ],
+            "id": 993
+        },
+        {
+            "animation": [
+                {
+                    "duration": 150,
+                    "tileid": 1031
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1070
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1110
+                }
+            ],
+            "id": 1031
+        },
+        {
+            "animation": [
+                {
+                    "duration": 150,
+                    "tileid": 1032
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1071
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1111
+                }
+            ],
+            "id": 1032
+        },
+        {
+            "animation": [
+                {
+                    "duration": 150,
+                    "tileid": 1033
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1072
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1112
+                }
+            ],
+            "id": 1033
+        },
+        {
+            "animation": [
+                {
+                    "duration": 150,
+                    "tileid": 1797
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1799
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1801
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1803
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1805
+                }
+            ],
+            "id": 1797
+        },
+        {
+            "animation": [
+                {
+                    "duration": 150,
+                    "tileid": 1798
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1800
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1802
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1804
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1806
+                }
+            ],
+            "id": 1798
+        },
+        {
+            "animation": [
+                {
+                    "duration": 150,
+                    "tileid": 1836
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1838
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1840
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1842
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1844
+                }
+            ],
+            "id": 1836
+        },
+        {
+            "animation": [
+                {
+                    "duration": 150,
+                    "tileid": 1837
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1839
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1841
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1843
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1845
+                }
+            ],
+            "id": 1837
+        },
+        {
+            "animation": [
+                {
+                    "duration": 150,
+                    "tileid": 1978
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1979
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1980
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1981
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1982
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1983
+                },
+                {
+                    "duration": 150,
+                    "tileid": 1984
+                }
+            ],
+            "id": 1978
+        }
+    ],
+    "tilewidth": 16,
+    "type": "tileset",
+    "version": "1.6"
+}
