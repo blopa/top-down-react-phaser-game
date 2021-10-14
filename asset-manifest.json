@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/top-down-react-phaser-game/static/css/main.3b492d0d.chunk.css",
+    "main.js": "/top-down-react-phaser-game/static/js/main.6cd30b97.chunk.js",
+    "main.js.map": "/top-down-react-phaser-game/static/js/main.6cd30b97.chunk.js.map",
+    "runtime-main.js": "/top-down-react-phaser-game/static/js/runtime-main.62c77c95.js",
+    "runtime-main.js.map": "/top-down-react-phaser-game/static/js/runtime-main.62c77c95.js.map",
+    "static/js/2.cc5e5d40.chunk.js": "/top-down-react-phaser-game/static/js/2.cc5e5d40.chunk.js",
+    "static/js/2.cc5e5d40.chunk.js.map": "/top-down-react-phaser-game/static/js/2.cc5e5d40.chunk.js.map",
+    "static/js/3.08203976.chunk.js": "/top-down-react-phaser-game/static/js/3.08203976.chunk.js",
+    "static/js/3.08203976.chunk.js.map": "/top-down-react-phaser-game/static/js/3.08203976.chunk.js.map",
+    "index.html": "/top-down-react-phaser-game/index.html",
+    "static/css/main.3b492d0d.chunk.css.map": "/top-down-react-phaser-game/static/css/main.3b492d0d.chunk.css.map",
+    "static/js/2.cc5e5d40.chunk.js.LICENSE.txt": "/top-down-react-phaser-game/static/js/2.cc5e5d40.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/top-down-react-phaser-game/static/media/PressStart2P-Regular.c5b47093.ttf",
+    "static/media/coin.cae0d64b.png": "/top-down-react-phaser-game/static/media/coin.cae0d64b.png",
+    "static/media/coin.d7185127.png": "/top-down-react-phaser-game/static/media/coin.d7185127.png",
+    "static/media/dialog_borderbox.c5432d54.png": "/top-down-react-phaser-game/static/media/dialog_borderbox.c5432d54.png",
+    "static/media/game_logo.1bdd4ed4.png": "/top-down-react-phaser-game/static/media/game_logo.1bdd4ed4.png",
+    "static/media/game_over_background.21509171.png": "/top-down-react-phaser-game/static/media/game_over_background.21509171.png",
+    "static/media/health.b178a75b.png": "/top-down-react-phaser-game/static/media/health.b178a75b.png",
+    "static/media/heart.277f826b.png": "/top-down-react-phaser-game/static/media/heart.277f826b.png",
+    "static/media/heart_container.db75eb15.png": "/top-down-react-phaser-game/static/media/heart_container.db75eb15.png",
+    "static/media/hero.680baedf.png": "/top-down-react-phaser-game/static/media/hero.680baedf.png",
+    "static/media/main_menu_background.f7d244f3.png": "/top-down-react-phaser-game/static/media/main_menu_background.f7d244f3.png",
+    "static/media/npc_01.85943aad.png": "/top-down-react-phaser-game/static/media/npc_01.85943aad.png",
+    "static/media/npc_02.128762a8.png": "/top-down-react-phaser-game/static/media/npc_02.128762a8.png",
+    "static/media/npc_03.88a643c6.png": "/top-down-react-phaser-game/static/media/npc_03.88a643c6.png",
+    "static/media/npc_04.ddb002b4.png": "/top-down-react-phaser-game/static/media/npc_04.ddb002b4.png",
+    "static/media/push.0c204cb5.png": "/top-down-react-phaser-game/static/media/push.0c204cb5.png",
+    "static/media/slime.3a5fd77a.png": "/top-down-react-phaser-game/static/media/slime.3a5fd77a.png",
+    "static/media/sword.4d0808f2.png": "/top-down-react-phaser-game/static/media/sword.4d0808f2.png",
+    "static/media/tileset.bce8ab10.png": "/top-down-react-phaser-game/static/media/tileset.bce8ab10.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62c77c95.js",
+    "static/js/2.cc5e5d40.chunk.js",
+    "static/css/main.3b492d0d.chunk.css",
+    "static/js/main.6cd30b97.chunk.js"
+  ]
+}
