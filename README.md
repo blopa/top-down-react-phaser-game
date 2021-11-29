@@ -1,5 +1,7 @@
 ## Phaser 3 + React 17 Top-Down game demo
 
+There is a better version of this project here: https://github.com/blopa/top-down-react-phaser-game-template
+
 Made with an ejected Create React App.
 
 Read moe about this project: https://pablo.gg/en/blog/coding/how-to-create-a-top-down-rpg-maker-like-game-with-phaser-js-and-react
