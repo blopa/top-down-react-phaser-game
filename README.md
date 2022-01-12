@@ -4,7 +4,9 @@ There is a better version of this project here: https://github.com/blopa/top-dow
 
 Made with an ejected Create React App.
 
-Read moe about this project: https://pablo.gg/en/blog/coding/how-to-create-a-top-down-rpg-maker-like-game-with-phaser-js-and-react
+Read moe about this project:
+- https://pablo.gg/en/blog/coding/how-to-create-a-top-down-rpg-maker-like-game-with-phaser-js-and-react
+- https://pablo.gg/en/blog/coding/i-made-a-top-down-game-version-of-my-blog-with-phaser-and-react/
 
 ## Special thanks
 This game would not be possible without the help of some amazing people and their work, so here is my list of special thanks.
