@@ -1317,7 +1317,8 @@ export default class GameScene extends Scene {
         this.isSpaceJustDown = Input.Keyboard.JustDown(this.spaceKey);
 
         if (
-            this.isAttacking
+            this.isTeleporting
+            || this.isAttacking
             || this.isShowingDialog
         ) {
             return;
